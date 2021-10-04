@@ -19,7 +19,7 @@ Thực hiện bởi: Information Network Lab (PTIT)
 ![image](https://user-images.githubusercontent.com/71936544/135860458-7372b95b-cf63-403a-9f05-9f176f321a9d.png)
 ![image](https://user-images.githubusercontent.com/71936544/135860308-5e055221-1657-4dc6-9bb4-8f60140bf474.png)
 
-##Chú thích file
+## Chú thích
 - `detect_face.py` `detect_face_video.py` : Phát hiện khuôn mặt dựa trên thuật toán DNN
 - `deploy.prototxt.txt` `res10_300x300_ssd_iter_140000.caffemodel` : Model cần có khi sử dụng thuật toán DNN
 - `haar_face_detector.py`: Phát hiện khuôn mặt sử dụng thuật toán Haar Cascade
